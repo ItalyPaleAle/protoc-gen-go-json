@@ -12,7 +12,7 @@ import (
 	"github.com/grpc-ecosystem/grpc-gateway/codegenerator"
 	"github.com/grpc-ecosystem/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
 
-	"github.com/mitchellh/protoc-gen-go-json/gen"
+	"github.com/ItalyPaleAle/protoc-gen-go-json/gen"
 )
 
 var (
